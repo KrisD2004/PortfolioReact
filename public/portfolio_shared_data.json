@@ -9,12 +9,12 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kristian-dotson-865324265/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "selfie.jpg"
+      "image": "images/selfie.jpg"
     },
     "skills": {
       "icons": [

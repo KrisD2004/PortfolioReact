@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Yooo",
+      "description": "👋 I'm Kristian Dotson! Im a software developer that is currently enhancing his skillset. I'm experienced in React, HTML, CSS, JavaScript, and python. I hope you enjoy reading my portfolio! Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -22,15 +22,15 @@
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "JavaScript"
           },
           {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "Html 5"
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "Css"
           }
         ]
       },
@@ -46,11 +46,11 @@
         "technologies": [
           {
             "class": "devicon-react-original",
-            "name": "React"
+            "name": "JavaScript"
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Css"
           }
         ]
       },
@@ -66,26 +66,26 @@
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "JavaScript"
           },
           {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "Css"
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "Html 5"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Crew Coding School",
+        "title": "Full stack Developer",
+        "years": "1.23 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React 04/23/2023"
         ],
         "technologies": [
           "REST API",
@@ -100,11 +100,11 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "",
+        "title": "Self Training",
+        "years": "01.2023 - Present",
         "mainTech": [
-          "Angular 7/8"
+          "React and Javascript "
         ],
         "technologies": [
           "RxJS",

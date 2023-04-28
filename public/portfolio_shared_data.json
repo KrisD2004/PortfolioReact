@@ -14,7 +14,7 @@
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "images/selfie.jpg"
+      "image": "public/images/selfie.jpg"
     },
     "skills": {
       "icons": [
